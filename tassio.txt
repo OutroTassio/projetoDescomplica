@@ -1,0 +1,10 @@
+Pessoal, essa é meu primeiro contato com esse tipo de situação.
+sei o basico das seguintes tecnologias
+-HTML
+-CSS
+-JS
+-PYTHON
+mas só o básico msm!
+
+Meu contato com GIT / GITHUB no geral foi pouco e nunca em equipe.
+mesmo assistindo as aulas não tenho certeza se estou fazendo do jeito certo, então usarei essa oportunidade pra treinar, e me corrijam se estiver fazendo algo errado.

@@ -1,2 +1,3 @@
 Sugestão:
 1- Site de gestão pessoal com to do list, finanças, etc. Lado servidor com interações com APIs que devolvem valor de ações. Port para mobile posteriormente
+
